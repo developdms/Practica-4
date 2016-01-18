@@ -1,0 +1,52 @@
+/* 
+    Created on : 18-ene-2016, 18:38:09
+    Author     : MARTIN
+*/
+
+#wrapper{
+    width: 50%;
+    margin: 0 auto;
+}
+
+#wrapper form{
+    margin: 0 auto;
+}
+
+#wrapper form *{
+    display: block;
+    margin: 5px auto;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: #9999ff;
+}
+
+.flx {
+    display: flex;
+    justify-content: space-around;
+}
+.header{
+    height: 100px;
+}
+
+.header>a{
+    float: right;
+    margin: 1%;
+    text-decoration: none;
+}
+
+.linkprofile{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+
